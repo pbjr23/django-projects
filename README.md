@@ -1,0 +1,4 @@
+django-projects
+===============
+
+Learning django
